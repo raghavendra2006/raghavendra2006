@@ -66,9 +66,10 @@ Motivated **Computer Science Engineer** (3rd Year) at **Aditya College of Engine
 
 ### ⚙️ DevOps & Automation
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,linux,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,linux,bash,terraform&theme=dark" />
   &nbsp;
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
 
 ### 💻 Backend Development
