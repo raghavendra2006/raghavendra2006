@@ -1,6 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:1a1a4e,100:0d0d2b&height=220&section=header&text=Leela%20Krishna%20Raghavendra&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Patchipulusu%20%7C%20Cloud%20%26%20DevOps%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Leela%20Krishna%20Raghavendra&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Patchipulusu%20%7C%20Cloud%20%26%20DevOps%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/raghavendra2006/raghavendra2006/main/profile.png" width="150" height="150" style="border-radius: 50%; border: 4px solid #60A5FA; object-fit: cover;" alt="Leela Krishna Raghavendra Patchipulusu"/>
+
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=60A5FA&center=true&vCenter=true&width=820&lines=Cloud+%26+DevOps+Engineer+%E2%98%81%EF%B8%8F;AWS+Certified+Developer+%E2%80%93+Associate+%F0%9F%8F%85;AWS+%7C+Docker+%7C+Kubernetes+%7C+CI%2FCD;Java+%26+Spring+Boot+Backend+Developer;Building+Scalable+%26+Automated+Cloud+Systems+%F0%9F%9A%80" />
 
@@ -18,36 +22,16 @@
 
 ## 👨‍💻 About Me
 
-```yaml
-name        : Leela Krishna Raghavendra Patchipulusu
-role        : Cloud & DevOps Engineer
-education   : B.Tech — Computer Science Engineering (3rd Year)
-college     : Aditya College of Engineering and Technology
-location    : Surampalem, Andhra Pradesh, India 🇮🇳
-email       : patchipulusuraghavendra@gmail.com
+Motivated **Computer Science Engineer** (3rd Year) at **Aditya College of Engineering and Technology, Surampalem**, passionate about **Cloud Computing, DevOps, and Backend Development**. Certified **AWS Developer – Associate** with hands-on experience building scalable, automated, and secure cloud systems.
 
-certification : AWS Certified Developer — Associate ✅
+- ☁️ Hands-on with **AWS (EC2, S3, Lambda, IAM, RDS, CloudWatch)**
+- 🐳 Experience with **Docker, Kubernetes & CI/CD Pipelines**
+- ☕ Strong backend foundation with **Java, Spring Boot & Maven**
+- 🔐 Focused on **secure, scalable & automated cloud architecture**
+- 🌱 Currently exploring **advanced Kubernetes & AWS services**
 
-core_skills :
-  cloud     : AWS (EC2, S3, Lambda, IAM, RDS, CloudWatch)
-  devops    : Docker · Kubernetes · CI/CD · GitHub Actions
-  backend   : Java · Spring Boot · Maven
-  os        : Linux · Bash Scripting
-
-strengths   :
-  - Scalable & Secure Cloud Architecture
-  - Container Orchestration with Kubernetes
-  - Automated CI/CD Pipeline Design
-  - Infrastructure as Code mindset
-
-currently   :
-  - Completing B.Tech (Final year ahead)
-  - Deepening AWS expertise beyond Associate level
-  - Exploring Kubernetes advanced patterns
-  - Contributing to cloud-native projects
-
-open_to     : Cloud Internships · DevOps Roles · Open Source
-```
+🎓 *B.Tech – Computer Science Engineering · Aditya College of Engineering and Technology*
+📍 *Surampalem, Andhra Pradesh, India*
 
 ---
 
@@ -65,7 +49,7 @@ open_to     : Cloud Internships · DevOps Roles · Open Source
 
 ## 🛠️ Tech Stack
 
-### ☁️ Cloud & Infrastructure
+### ☁️ Cloud Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=aws&theme=dark" />
   &nbsp;
@@ -105,8 +89,8 @@ open_to     : Cloud Internships · DevOps Roles · Open Source
 
 <br/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=raghavendra2006&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavendra2006&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=raghavendra2006&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavendra2006&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
 
 <br/>
 
@@ -116,23 +100,15 @@ open_to     : Cloud Internships · DevOps Roles · Open Source
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raghavendra2006&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies" />
-</div>
-
----
-
-## 💡 My Engineering Principles
+## 💡 Engineering Philosophy
 
 > *"Automate what's repetitive. Secure what's critical. Scale what's working."*
 
-| Principle | How I Apply It |
-|-----------|----------------|
-| ☁️ **Cloud-First Thinking** | Design for managed services, minimal ops overhead |
-| 🔐 **Security by Default** | IAM least-privilege, encrypted storage, zero trust |
-| 🤖 **Automate Everything** | CI/CD pipelines over manual deployments, always |
+| Principle | Practice |
+|-----------|----------|
+| ☁️ **Cloud-Native First** | Serverless & managed services over self-hosted |
+| 🔐 **Security by Design** | Least-privilege IAM, encrypted data at rest & transit |
+| 🤖 **Automate Everything** | If it runs twice manually, it should be a pipeline |
 | 📦 **Container Native** | Docker for consistency, Kubernetes for scale |
 | 📈 **Observe & Improve** | CloudWatch metrics + logs as first-class citizens |
 
@@ -168,7 +144,7 @@ open_to     : Cloud Internships · DevOps Roles · Open Source
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:1a1a4e,100:0d0d2b&height=130&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=footer&animation=fadeIn" width="100%"/>
 
 <div align="center">
   <i>⭐ From <a href="https://github.com/raghavendra2006">raghavendra2006</a> — Keep learning, keep building, keep shipping! 🚀</i>
