@@ -14,7 +14,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patchipulusu-raghavendra/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raghavendra2006)
 [![Portfolio](https://img.shields.io/badge/Portfolio-60A5FA?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-five-snowy-13.vercel.app/)
-[![Profile Views](https://komarev.com/ghpvc/?username=raghavendra2006&label=Profile+Views&color=60A5FA&style=for-the-badge)](https://github.com/raghavendra2006)
 
 </div>
 
@@ -53,7 +52,7 @@ Motivated **Computer Science Engineer** (3rd Year) at **Aditya College of Engine
 
 ### ☁️ Cloud & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure&theme=dark" />
   &nbsp;
   <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white"/>
@@ -61,6 +60,8 @@ Motivated **Computer Science Engineer** (3rd Year) at **Aditya College of Engine
   <img src="https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white"/>
   <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 </p>
 
 ### ⚙️ DevOps & Automation
@@ -92,6 +93,9 @@ Motivated **Computer Science Engineer** (3rd Year) at **Aditya College of Engine
 ### 🔧 Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
 
 ---
