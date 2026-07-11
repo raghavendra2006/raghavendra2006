@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-Motivated **Computer Science Engineer** (3rd Year) at **Aditya College of Engineering and Technology, Surampalem**, passionate about **Cloud Computing, DevOps, and Backend Development**. Certified **AWS Developer – Associate** with hands-on experience building production-grade, scalable, and AI-powered cloud systems — deployed on AWS using automated CI/CD pipelines.
+Motivated **Computer Science Engineer** 4th Year) at **Aditya College of Engineering and Technology, Surampalem**, passionate about **Cloud Computing, DevOps, and Backend Development**. Certified **AWS Developer – Associate** with hands-on experience building production-grade, scalable, and AI-powered cloud systems — deployed on AWS using automated CI/CD pipelines.
 
 - ☁️ Hands-on with **AWS (EC2, S3, Lambda, IAM, RDS, CloudWatch)**
 - 🐳 Experience with **Docker, Kubernetes & CI/CD Pipelines (Jenkins + GitHub Actions)**
