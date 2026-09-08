@@ -1,58 +1,63 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3460,100:1a1a2e&height=200&section=header&text=Leela%20Krishna%20Raghavendra&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Cloud%20Engineer%20%E2%80%A2%20DevOps%20Engineer%20%E2%80%A2%20Backend%20Engineer&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f3460,100:16213e&height=220&section=header&text=Leela%20Krishna%20Raghavendra&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20AWS%20%26%20Azure%20Certified&descAlignY=57&descSize=18&animation=fadeIn" width="100%"/>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/raghavendra2006/raghavendra2006/main/profile_professional.jpg" width="150" height="150" style="border-radius:50%;border:4px solid #0f3460;object-fit:cover;" alt="Leela Krishna Raghavendra Patchipulusu"/>
 
 <br/>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1400&color=4A9EFF&center=true&vCenter=true&width=760&lines=AWS+Certified+Developer+%E2%80%93+Associate+%7C+Azure+Administrator+Associate;Designing+CI%2FCD+pipelines+%2C+cloud-native+systems+%26+serverless+architectures;Java+%7C+Spring+Boot+%7C+Docker+%7C+Kubernetes+%7C+Terraform+%7C+Python" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=4A9EFF&center=true&vCenter=true&width=820&lines=AWS+Certified+Developer+%E2%80%93+Associate+%7C+Azure+Administrator+Associate;2%C3%97+Industry+Intern+%E2%80%94+Technical+Hub+%26+Infosys+Springboard;Building+CI%2FCD+pipelines+%26+AI-powered+cloud+systems;Java+%7C+Spring+Boot+%7C+Docker+%7C+Kubernetes+%7C+Terraform" />
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patchipulusu-raghavendra/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f3460?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-five-snowy-13.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raghavendra2006)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patchipulusuraghavendra@gmail.com)
+[![Phone](https://img.shields.io/badge/+91_9290093467-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919290093467)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patchipulusu-raghavendra/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raghavendra2006)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f3460?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-five-snowy-13.vercel.app/)
 
 </div>
 
 ---
 
-## About
+## 👨‍💻 About Me
 
-I build systems where infrastructure is defined in code, deployments are fully automated, and every component is observable from day one. My work spans cloud-native backend services, CI/CD pipelines, container orchestration, and secure cloud infrastructure — designed to scale and fail gracefully.
+Final-year B.Tech CSE student at **Aditya College of Engineering and Technology** (CGPA **8.45/10**) with two industry internships under my belt — AWS networking at Technical Hub and AI/ML deployment at Infosys Springboard. I hold dual cloud certifications from **AWS and Microsoft Azure** and build systems that ship automatically: code committed, quality checked, containerised, and deployed without manual steps.
 
-Currently pursuing B.Tech Computer Science Engineering at **Aditya College of Engineering and Technology** (CGPA **8.45 / 10**), with two industry internships delivering measurable outcomes across AWS networking and AI/ML deployment at scale.
-
-The engineering choices I make are driven by one principle: systems should run themselves, not require a human watching them.
+Currently going deep on Kubernetes internals and serverless patterns on AWS.
 
 ---
 
-## Experience
+## 💼 Experience
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**AWS Cloud Intern — Technical Hub Pvt Ltd**
-`May 2025 – Jun 2025`
+### 🔷 AWS Cloud Intern
+**Technical Hub Pvt Ltd** &nbsp;·&nbsp; May 2025 – Jun 2025
 
-Designed and hardened VPC networking across a production AWS environment supporting 10+ EC2 instances. Restructured IAM policies using least-privilege access patterns, eliminating over-permissioned roles across the full account. Configured subnets, route tables, and security groups to enforce network segmentation and high availability.
+- Configured **VPC networking**, subnets, route tables & security groups supporting **10+ EC2 instances** with high availability
+- Hardened **IAM policies** using least-privilege access patterns — reduced excessive permissions across the entire environment
+- Worked hands-on with **AWS EC2, VPC, IAM** in a production cloud setup
 
-`AWS EC2` `VPC` `IAM` `Security Groups` `Route Tables`
+`AWS EC2` `VPC` `IAM` `Security Groups` `Subnets`
 
-[![Verify](https://img.shields.io/badge/Internship%20Letter-0f3460?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1uIoucOXvtXpXrFVi441Z5WLCoTkgtD7L/view)
+[![Letter](https://img.shields.io/badge/Verify%20Letter-0f3460?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1uIoucOXvtXpXrFVi441Z5WLCoTkgtD7L/view)
 
 </td>
 <td width="50%" valign="top">
 
-**Artificial Intelligence Intern — Infosys Springboard**
-`Sep 2025 – Nov 2025`
+### 🤖 Artificial Intelligence Intern
+**Infosys Springboard** &nbsp;·&nbsp; Sep 2025 – Nov 2025
 
-Built an AI-driven agricultural advisory system and integrated model outputs into backend REST services for near real-time recommendations. Reduced inference latency by deploying inference workloads on AWS Lambda and optimising the full request/response pipeline. Delivered end-to-end ML deployment covering model serving, backend integration, and cloud hosting.
+- Built an **AI-driven agricultural assistant** and integrated model outputs into backend services for near real-time recommendations
+- Improved **inference latency** by deploying services on AWS and optimising the full request/response pipeline
+- Gained hands-on ML deployment experience with **Python, AWS Lambda & model serving**
 
-`Python` `AWS Lambda` `REST APIs` `Model Serving` `AI/ML`
+`Python` `AWS Lambda` `AI/ML` `REST APIs` `Model Serving`
 
-[![Verify](https://img.shields.io/badge/Internship%20Letter-0f3460?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1OSC9Z4b0YEn80vOYMzoO9W4gIAjCqN8i/view)
+[![Letter](https://img.shields.io/badge/Verify%20Letter-0f3460?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1OSC9Z4b0YEn80vOYMzoO9W4gIAjCqN8i/view)
 
 </td>
 </tr>
@@ -60,119 +65,131 @@ Built an AI-driven agricultural advisory system and integrated model outputs int
 
 ---
 
-## Tech Stack
+## 🏅 Certifications
 
-**Cloud Platforms**
+<div align="center">
 
+[![AWS Dev Associate](https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://drive.google.com/file/d/1wsZBHxZy_Vry1O9odeNXuOchrWr11Hf8/view?usp=drive_link)
+&nbsp;
+[![Azure Admin](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Administrator%20Associate-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/users/patchipulusuleelakrishnaraghavendr-2916/credentials/certification/azure-administrator?tab=credentials-tab)
+&nbsp;
+[![AWS Cloud](https://img.shields.io/badge/AWS-Cloud%20Developing-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://drive.google.com/file/d/1sa0FCx4swCmwd1lZAujInIdtZDgbHfeo/view)
+&nbsp;
+[![GFG](https://img.shields.io/badge/GFG-Cloud%20Practitioner-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://drive.google.com/file/d/1sa0FCx4swCmwd1lZAujInIdtZDgbHfeo/view)
+
+<br/>
+
+| Certification | Issued | Expires | Credential |
+|:---|:---:|:---:|:---:|
+| 🏆 AWS Certified Developer – Associate | 2024 | — | [View](https://drive.google.com/file/d/1wsZBHxZy_Vry1O9odeNXuOchrWr11Hf8/view?usp=drive_link) |
+| 🔷 Microsoft Certified: Azure Administrator Associate | Aug 2026 | Aug 2027 | [View](https://learn.microsoft.com/en-us/users/patchipulusuleelakrishnaraghavendr-2916/credentials/certification/azure-administrator?tab=credentials-tab) |
+| ☁️ AWS Cloud Developing | 2024 | — | [View](https://drive.google.com/file/d/1sa0FCx4swCmwd1lZAujInIdtZDgbHfeo/view) |
+| 📘 GFG Cloud Practitioner | Completed | — | [View](https://drive.google.com/file/d/1sa0FCx4swCmwd1lZAujInIdtZDgbHfeo/view) |
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### ☁️ Cloud & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VPC%20%26%20IAM-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white"/>
 </p>
 
-`EC2` `S3` `Lambda` `VPC` `IAM` `RDS` `DynamoDB` `SQS` `CloudWatch` `CloudFormation` `Azure Resource Manager` `Azure Virtual Networks` `GCP Cloud Run`
-
-**Containers & Orchestration**
-
+### ⚙️ DevOps & Automation
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,linux,bash,terraform&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
 
-`Docker Compose` `Dockerfile` `Kubernetes Deployments` `Helm` `ArgoCD`
-
-**Infrastructure as Code & CI/CD**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=terraform,ansible,jenkins,githubactions&theme=dark" />
-</p>
-
-`Terraform Modules` `Ansible Playbooks` `Jenkins Pipelines` `GitHub Actions Workflows`
-
-**Backend & Languages**
-
+### 💻 Backend & Languages
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,spring&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Spring%20Boot%203-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
 </p>
 
-`Spring Boot 3` `Spring Security` `Spring Data JPA` `REST APIs` `JWT` `Microservices` `Maven`
-
-**Monitoring & Security**
-
-`CloudWatch` `Prometheus` `Grafana` `SonarQube` `Trivy` `OWASP` `DevSecOps`
-
-**Databases & Storage**
-
+### 🗄️ Databases & Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-`MySQL` `MongoDB` `DynamoDB` `AWS RDS` `S3`
-
-**Developer Tools**
-
+### 🔧 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
 
 ---
 
-## Projects
+## 🚀 Projects
 
 <table width="100%">
 <tr>
 <td width="33%" valign="top">
 
-### Student Management System
+### 🎓 Student Management System
 
-A production-grade full-stack application with a fully automated DevOps pipeline. Every commit to `main` triggers a quality gate, Docker image build, registry push, and auto-deployment to EC2 — pipeline completes in under 3 minutes.
+Full-stack Spring Boot app with an end-to-end automated DevOps pipeline. Every commit triggers SonarQube quality gates → Docker image build → Docker Hub push → auto-deploy to EC2. **Pipeline completes in ~3 min.**
 
-**Architecture:** Spring Boot 3 backend → MySQL 8 database → Docker Compose → Jenkins pipeline → SonarQube gate → Docker Hub → EC2
+- 🔐 JWT + Spring Security — all endpoints secured
+- 📷 AWS S3 photo upload with public URL storage
+- 🐳 Docker Compose: Spring Boot + MySQL in one command
+- 🧪 SonarQube quality gate on every single commit
 
-**Engineering Highlights**
-- JWT + Spring Security applied across all API endpoints
-- Photo upload to S3 with direct public URL resolution
-- SonarQube quality gate blocks failing commits from reaching production
-- Docker Compose manages multi-service environment in a single command
+`Java 17` `Spring Boot 3` `MySQL 8` `Docker` `Jenkins` `AWS EC2/S3`
 
-`Java 17` `Spring Boot 3` `MySQL 8` `Docker` `Jenkins` `AWS EC2` `AWS S3`
-
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raghavendra2006/Student-Management)
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raghavendra2006/Student-Management)
 
 </td>
 <td width="33%" valign="top">
 
-### CloudCompare AI
+### ☁️ CloudCompare AI
 
-An AI-powered decision engine that analyses and compares AWS, GCP, Azure, OCI, and Alibaba Cloud using Groq LLM (Llama 3.1). Designed to handle concurrent workloads without blocking under bursty traffic.
+AI decision engine comparing AWS, GCP, Azure, OCI & Alibaba Cloud using Groq LLM (Llama 3.1). **Sub-second AI response time.** Handles thousands of concurrent requests via Java 21 virtual threads.
 
-**Architecture:** Spring Boot 3 → Groq LLM API → MySQL → Jenkins CI/CD → Docker → EC2
-
-**Engineering Highlights**
-- Java 21 virtual threads enable high concurrency with minimal overhead
-- IP-based rate limiting enforced at 50 requests per 15-minute window
-- Resilience4J circuit breaker prevents cascade failures on upstream LLM timeouts
-- Chart.js dashboards render cost and performance comparisons in real time
+- 🤖 Groq LLM for real-time multi-cloud analysis
+- 🛡️ IP rate limiting: **50 req / 15 min** + Circuit Breaker (Resilience4J)
+- 📊 Chart.js dashboards for cost & performance insights
+- 🚀 Full Jenkins CI/CD + SonarQube + Docker pipeline
 
 `Java 17` `Spring Boot 3` `Groq AI` `MySQL` `Docker` `Jenkins` `AWS EC2`
 
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raghavendra2006/CLOUD-COMPARE-AI)
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raghavendra2006/CLOUD-COMPARE-AI)
 
 </td>
 <td width="33%" valign="top">
 
-### Serverless ML Inference Pipeline
+### ⚡ Serverless ML Inference Pipeline
 
-Event-driven, fully serverless architecture for ML inference at scale. Zero idle compute cost — the pipeline wakes on S3 uploads, processes through Lambda, queues bursts through SQS, and persists results in DynamoDB.
+Event-driven serverless architecture for ML inference at scale. **Zero idle compute cost** — triggered by S3 uploads and SQS events, results stored in DynamoDB. No servers to manage.
 
-**Architecture:** S3 Upload → Lambda Trigger → SQS Queue → Inference Lambda → DynamoDB
-
-**Engineering Highlights**
-- S3 object events trigger Lambda inference automatically — no polling
-- SQS absorbs burst traffic and ensures no inference requests are dropped
-- DynamoDB provides low-latency result retrieval at any scale
-- 1024MB Lambda allocation with sub-30s timeout per inference job
+- 🪣 S3 object upload → auto-triggers Lambda inference
+- ⏱️ **1024MB Lambda, &lt;30s timeout** per inference job
+- 📬 SQS queue for high-volume burst handling
+- 🗄️ DynamoDB for low-latency results storage
 
 `Python` `AWS Lambda` `S3` `SQS` `DynamoDB`
 
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raghavendra2006/Serverless-ML-Inference-Pipeline)
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raghavendra2006/Serverless-ML-Inference-Pipeline)
 
 </td>
 </tr>
@@ -180,129 +197,56 @@ Event-driven, fully serverless architecture for ML inference at scale. Zero idle
 
 ---
 
-## Engineering Philosophy
-
-These principles guide every system I design and every line of infrastructure I write.
-
-| Principle | What it means in practice |
-|:---|:---|
-| **Automation First** | If a task runs twice manually, it becomes a pipeline. Manual steps are toil, not process. |
-| **Everything as Code** | Infrastructure, configuration, security policies, and pipelines live in version control — not dashboards. |
-| **Shift Left Security** | Security checks (SAST, image scanning, IAM validation) belong in the CI pipeline, not in post-deployment reviews. |
-| **Cloud Native Design** | Stateless services, event-driven patterns, managed datastores. Design for ephemerality and horizontal scale. |
-| **Observability by Default** | Metrics, logs, and traces are built in from the start. If you can't measure it, you can't operate it. |
-| **Cost as a System Property** | Resource sizing, auto-scaling policies, and serverless patterns are engineering decisions — not finance ones. |
-| **Reliability over Velocity** | Circuit breakers, retries, graceful degradation, and health checks are not optional extras. |
-
----
-
-## Certifications
+## 📊 GitHub Analytics
 
 <div align="center">
 
-| Certification | Issuer | Status | Credential |
-|:---|:---:|:---:|:---:|
-| AWS Certified Developer – Associate | Amazon Web Services | Active | [View](https://drive.google.com/file/d/1wsZBHxZy_Vry1O9odeNXuOchrWr11Hf8/view?usp=drive_link) |
-| Azure Administrator Associate | Microsoft | Active · Expires Aug 2027 | [View](https://learn.microsoft.com/en-us/users/patchipulusuleelakrishnaraghavendr-2916/credentials/certification/azure-administrator?tab=credentials-tab) |
-| AWS Cloud Developing | Amazon Web Services | Completed | [View](https://drive.google.com/file/d/1sa0FCx4swCmwd1lZAujInIdtZDgbHfeo/view) |
-| Google Cloud Career Launchpad | Google | Completed | — |
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raghavendra2006&theme=react-dark&hide_border=true&area=true&radius=8" width="100%" alt="Contribution Graph" />
+
+<br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=raghavendra2006&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavendra2006&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=raghavendra2006&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## GitHub Analytics
+## 🎓 Education
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raghavendra2006&theme=react-dark&hide_border=true&area=true&radius=6" width="100%" alt="Contribution Graph"/>
-
-<br/><br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=raghavendra2006&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&hide=issues"/>
-&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavendra2006&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=raghavendra2006&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=raghavendra2006&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6" alt="GitHub Trophies"/>
+| 🏛️ Institution | 📚 Degree | 📅 Period | 🏆 Score |
+|:---:|:---:|:---:|:---:|
+| Aditya College of Engineering and Technology, Surampalem | B.Tech — Computer Science Engineering | 2023 – Present | **CGPA 8.45 / 10** |
+| Narayana Junior College, Andhra Pradesh | Class 12 | 2021 – 2023 | **90.4%** |
 
 </div>
 
 ---
 
-## Currently Exploring
-
-These are the areas I am actively building depth in right now.
-
-```text
-Advanced Kubernetes      ████████████░░░   Operators, custom controllers, resource management
-Platform Engineering     █████████░░░░░░   Internal developer platforms, golden paths
-Service Mesh             ███████░░░░░░░░   Istio, traffic management, mTLS
-Distributed Systems      ████████░░░░░░░   Consensus, eventual consistency, CAP theorem
-MLOps                    ██████░░░░░░░░░   Model versioning, feature stores, deployment pipelines
-GitOps                   █████████░░░░░░   ArgoCD, Flux, declarative delivery
-Cloud Security           ████████░░░░░░░   Zero-trust, secrets management, policy as code
-System Design            ████████████░░░   Large-scale architecture patterns and trade-offs
-```
-
----
-
-## Open Source
-
-My current open-source footprint is through personal projects built in public — all repositories documented with architecture decisions, infrastructure code, and deployment runbooks. The goal is to build in the open and make the systems reusable.
-
-**Planned contributions:**
-
-- Terraform modules for production-ready AWS environments
-- Helm charts for Spring Boot microservices deployments
-- GitHub Actions reusable workflows for Java + Docker + SonarQube pipelines
-- ArgoCD ApplicationSet templates for multi-environment GitOps delivery
-
-Open to collaborating on cloud infrastructure tooling, DevOps automation, and backend platform engineering work.
-
----
-
-## Education
+## 🤝 Open to Opportunities
 
 <div align="center">
 
-| Institution | Degree | Period | Score |
-|:---|:---|:---:|:---:|
-| Aditya College of Engineering and Technology, Surampalem | B.Tech — Computer Science Engineering | 2023 – Present | CGPA 8.45 / 10 |
-| Narayana Junior College, Andhra Pradesh | Class 12 | 2021 – 2023 | 90.4% |
+| 💼 Cloud / DevOps Roles | ⚙️ Cloud-Native Projects | 🌐 Open Source |
+|:---:|:---:|:---:|
+| Internships & full-time | Real-world AWS & backend builds | PRs & collaborations welcome |
+
+<br/>
+
+📩 [patchipulusuraghavendra@gmail.com](mailto:patchipulusuraghavendra@gmail.com) &nbsp;·&nbsp; 📞 +91 9290093467 &nbsp;·&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/patchipulusu-raghavendra/) &nbsp;·&nbsp; 🌐 [Portfolio](https://my-portfolio-five-snowy-13.vercel.app/)
 
 </div>
 
 ---
 
-## Connect
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:0f3460,100:000000&height=130&section=footer&animation=fadeIn" width="100%"/>
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patchipulusu-raghavendra/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f3460?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-five-snowy-13.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raghavendra2006)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patchipulusuraghavendra@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/raghavendra2006)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/raghavendra2006)
-
-</div>
-
----
-
-<div align="center">
-
-**Open to Cloud Engineer, DevOps Engineer, and Backend Engineer roles — internships and full-time.**
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:0f3460,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
-
-<div align="center">
-  <sub>If it runs twice manually, it's already a pipeline.</sub>
+  <i>⭐ From <a href="https://github.com/raghavendra2006">raghavendra2006</a> — If it runs twice manually, it's already a pipeline. 🚀</i>
 </div>
