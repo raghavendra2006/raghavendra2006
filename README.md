@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-Final-year B.Tech CSE student at **Aditya College of Engineering and Technology** (CGPA **8.45/10**) with two industry internships under my belt — AWS networking at Technical Hub and AI/ML deployment at Infosys Springboard. I hold dual cloud certifications from **AWS and Microsoft Azure** and build systems that ship automatically: code committed, quality checked, containerised, and deployed without manual steps.
+Final-year B.Tech CSE student at **Aditya College of Engineering and Technology** (CGPA **8.53/10**) with two industry internships under my belt — AWS networking at Technical Hub and AI/ML deployment at Infosys Springboard. I hold dual cloud certifications from **AWS and Microsoft Azure** and build systems that ship automatically: code committed, quality checked, containerised, and deployed without manual steps.
 
 Currently going deep on Kubernetes internals and serverless patterns on AWS.
 
